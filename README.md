@@ -2,7 +2,9 @@
 
 "The *World Factbook* provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities." -CIA
 
-This repository contains the processed text data in XML format. 
+This repository contains the processed text data in XML format.
+
+Note: it isn't completely machine readable yet. Depending on your application, you'll need to parse the numbers and names of interest from the XML file.
 
 Method:
 
