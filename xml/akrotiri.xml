@@ -14,14 +14,15 @@ Western Sovereign Base Area.</subsection>
 Cyprus</subsection>
       <subsection title="Geographic coordinates">34 37 N, 32 58 E</subsection>
       <subsection title="Map references">Middle East</subsection>
-      <subsection title="Area">total: 123 sq km<br/>
-         <br/>
-note: includes a salt lake and wetlands<br/>country
+      <subsection title="Area">
+         <note title="total">123 sq km</note>
+         <note title="note">includes a salt lake and wetlands</note>country
 comparison to the world: 223</subsection>
       <subsection title="Area - comparative">about 0.7 times the size of Washington, DC</subsection>
-      <subsection title="Land boundaries">total: 48 km<br/>
-         <br/>
-border countries (1): Cyprus 48 km</subsection>
+      <subsection title="Land boundaries">
+         <note title="total">48 km</note>
+         <note title="border countries (1)">Cyprus 48 km</note>
+      </subsection>
       <subsection title="Coastline">56.3 km</subsection>
       <subsection title="Climate">temperate; Mediterranean with hot, dry summers and cool
 winters</subsection>
@@ -34,44 +35,29 @@ Ministry of Defense, and 20% is SBA Crown land</subsection>
       <subsection title="Population">(2020) approximately 18,195 on the Sovereign Base Areas of
 Akrotiri and Dhekelia including 11,000 Cypriots and 7,195 Service
 and UK-based contract personnel and dependents</subsection>
-      <subsection title="Languages">English, Greek<br/>
-         <br/>
-major-language sample(s):<br/>
-Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών
-πληροφοριών. (Greek)<br/>
-         <br/>
-The World Factbook, the indispensable source for basic
-information.</subsection>
-      <subsection title="Age structure">0-14 years: NA<br/>
-         <br/>
-15-24 years: NA<br/>
-         <br/>
-25-54 years: NA<br/>
-         <br/>
-55-64 years: NA<br/>
-         <br/>
-65 years and over: NA</subsection>
-      <subsection title="Dependency ratios">total dependency ratio: NA<br/>
-         <br/>
-youth dependency ratio: NA<br/>
-         <br/>
-elderly dependency ratio: NA<br/>
-         <br/>
-potential support ratio: NA</subsection>
+      <subsection title="Languages">English, Greek
+<note title="major-language sample(s)">Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)</note>
+      </subsection>
+      <subsection title="Age structure">
+         <note title="0-14 years">NA</note>
+         <note title="15-24 years">NA</note>
+         <note title="25-54 years">NA</note>
+         <note title="55-64 years">NA</note>
+         <note title="65 years and over">NA</note>
+      </subsection>
+      <subsection title="Dependency ratios">
+         <note title="total dependency ratio">NA</note>
+         <note title="youth dependency ratio">NA</note>
+         <note title="elderly dependency ratio">NA</note>
+         <note title="potential support ratio">NA</note>
+      </subsection>
       <subsection title="Birth rate">NA</subsection>
       <subsection title="Death rate">NA</subsection>
       <subsection title="Contraceptive prevalence rate">NA</subsection>
-      <subsection title="Drinking water source">improved: urban: NA<br/>
-         <br/>
-rural: NA<br/>
-         <br/>
-total: NA<br/>
-         <br/>
-unimproved: urban: NA<br/>
-         <br/>
-rural: NA<br/>
-         <br/>
-total: NA</subsection>
+      <subsection title="Drinking water source">
+         <note title="improved">urban: NA</note>
+         <note title="unimproved">urban: NA</note>
+      </subsection>
       <subsection title="Current health expenditure">NA</subsection>
       <subsection title="HIV/AIDS - adult prevalence rate">NA</subsection>
       <subsection title="Children under the age of 5 years underweight">NA</subsection>
@@ -85,67 +71,51 @@ vultures is on the base</subsection>
 winters</subsection>
    </section>
    <section title="Government">
-      <subsection title="Country name">conventional long form: none<br/>
-         <br/>
-conventional short form: Akrotiri<br/>
-         <br/>
-etymology: named for the village that lies within
-the Western Sovereign Base Area on Cyprus</subsection>
+      <subsection title="Country name">
+         <note title="conventional long form">none</note>
+         <note title="conventional short form">Akrotiri</note>
+         <note title="etymology">named for the village that lies within the Western Sovereign Base Area on Cyprus</note>
+      </subsection>
       <subsection title="Dependency status">a special form of UK overseas territory; administered by an
 administrator who is also the Commander, British Forces Cyprus</subsection>
-      <subsection title="Capital">name: Episkopi Cantonment (base administrative
-center for Akrotiri and Dhekelia)<br/>
-         <br/>
-geographic coordinates: 34 40 N, 32 51 E<br/>
-         <br/>
-time difference: UTC+2 (7 hours ahead of
-Washington, DC, during Standard Time)<br/>
-         <br/>
-daylight saving time: +1hr, begins last Sunday in
-March; ends last Sunday in October<br/>
-         <br/>
-etymology: "Episkopi" means "episcopal" in Greek
-and stems from the fact that the site previously served as the
-bishop's seat of an Orthodox diocese</subsection>
-      <subsection title="Constitution">history: presented 3 August 1960, effective 16
-August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia
-Order in Council 1960 serves as a basic legal document)<br/>
-         <br/>
-amendments: amended 1966</subsection>
+      <subsection title="Capital">
+         <note title="name">Episkopi Cantonment (base administrative center for Akrotiri and Dhekelia)</note>
+         <note title="geographic coordinates">34 40 N, 32 51 E</note>
+         <note title="time difference">UTC+2 (7 hours ahead of Washington, DC, during Standard Time)</note>
+         <note title="daylight saving time">+1hr, begins last Sunday in March; ends last Sunday in October</note>
+         <note title="etymology">"Episkopi" means "episcopal" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese</note>
+      </subsection>
+      <subsection title="Constitution">
+         <note title="history">presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960 serves as a basic legal document)</note>
+         <note title="amendments">amended 1966</note>
+      </subsection>
       <subsection title="Legal system">laws applicable to the Cypriot population are, as far as
 possible, the same as the laws of the Republic of Cyprus; note -
 the Sovereign Base Area Administration has its own court system to
 deal with civil and criminal matters</subsection>
-      <subsection title="Executive branch">chief of state: King CHARLES III (since 8
-September 2022)<br/>
-         <br/>
-head of government: Administrator Air Vice-Marshal
-Peter J.M. SQUIRES (since 1 September 2022); note - administrator
-reports to the British Ministry of Defense and is also Commander,
-British Forces Cyprus (BFC); the chief officer, an appointed
-civilian, is responsible for the day-to-day running of the civil
-government of the Sovereign Base Areas<br/>
-         <br/>
-elections/appointments: the monarchy is
-hereditary; administrator appointed by the monarch on the advice of
-the Ministry of Defense</subsection>
-      <subsection title="Judicial branch">highest court(s): Senior Judges' Court
-(consists of several visiting judges from England and Wales)<br/>
-         <br/>
-judge selection and term of office: see entry for
-United Kingdom<br/>
-         <br/>
-subordinate courts: Resident Judges' Court; Courts
-Martial</subsection>
+      <subsection title="Executive branch">
+         <note title="chief of state">King CHARLES III (since 8 September 2022)</note>
+         <note title="head of government">Administrator Air Vice-Marshal Peter J.M. SQUIRES (since 1 September 2022); note - administrator reports to the British Ministry of Defense and is also Commander, British Forces Cyprus (BFC); the chief officer, an appointed civilian, is responsible for the day-to-day running of the civil government of the Sovereign Base Areas</note>
+         <note title="elections/appointments">the monarchy is hereditary; administrator appointed by the monarch on the advice of the Ministry of Defense</note>
+      </subsection>
+      <subsection title="Judicial branch">
+         <note title="highest court(s)">Senior Judges' Court (consists of several visiting judges from England and Wales)</note>
+         <note title="judge selection and term of office">see entry for United Kingdom</note>
+         <note title="subordinate courts">Resident Judges' Court; Courts Martial</note>
+      </subsection>
       <subsection title="Diplomatic representation in the US">none (overseas territory of the UK)</subsection>
-      <subsection title="Diplomatic representation from the US">embassy: none (overseas territory of the
-UK)</subsection>
+      <subsection title="Diplomatic representation from the US">
+         <note title="embassy">none (overseas territory of the UK)</note>
+      </subsection>
       <subsection title="Flag description">the flag of the UK is used</subsection>
-      <subsection title="National anthem">note: as a UK area of special sovereignty, "God
-Save the King" is official (see United Kingdom)</subsection>
+      <subsection title="National anthem">
+         <note title="note">as a UK area of special sovereignty, "God Save the King" is official (see United Kingdom)</note>
+      </subsection>
    </section>
    <section title="Economy">
-      <subsection title="Exchange rates">note: uses the euro</subsection>
+      <subsection title="Exchange rates">
+         <note title="note">uses the euro</note>
+      </subsection>
    </section>
    <section title="Communications">
       <subsection title="Broadcast media">British Forces Broadcast Service (BFBS) provides multi-channel
@@ -153,9 +123,12 @@ satellite TV service as well as BFBS radio broadcasts to the
 Akrotiri Sovereign Base Area</subsection>
    </section>
    <section title="Transportation">
-      <subsection title="Airports">total: 1 (2021)<br/>country
+      <subsection title="Airports">
+         <note title="total">1 (2021)</note>country
 comparison to the world: 209</subsection>
-      <subsection title="Airports - with paved runways">2,438 to 3,047 m: 1 (2021)</subsection>
+      <subsection title="Airports - with paved runways">
+         <note title="2,438 to 3,047 m">1 (2021)</note>
+      </subsection>
    </section>
    <section title="Military and Security">
       <subsection title="Military - note">defense is the responsibility of the UK; Akrotiri (aka the

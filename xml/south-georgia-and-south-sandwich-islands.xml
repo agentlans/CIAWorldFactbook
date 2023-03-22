@@ -24,22 +24,21 @@ each island.</subsection>
 east of the tip of South America</subsection>
       <subsection title="Geographic coordinates">54 30 S, 37 00 W</subsection>
       <subsection title="Map references">Antarctic Region</subsection>
-      <subsection title="Area">total: 3,903 sq km<br/>
-         <br/>
-land: 3,903 sq km<br/>
-         <br/>
-water: 0 sq km<br/>
-         <br/>
-note: includes Shag Rocks, Black Rock, Clerke
-Rocks, South Georgia Island, Bird Island, and the South Sandwich
-Islands, which consist of 11 islands<br/>country
+      <subsection title="Area">
+         <note title="total">3,903 sq km</note>
+         <note title="land">3,903 sq km</note>
+         <note title="water">0 sq km</note>
+         <note title="note">includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands</note>country
 comparison to the world: 176</subsection>
       <subsection title="Area - comparative">slightly larger than Rhode Island</subsection>
-      <subsection title="Land boundaries">total: 0 km</subsection>
+      <subsection title="Land boundaries">
+         <note title="total">0 km</note>
+      </subsection>
       <subsection title="Coastline">NA</subsection>
-      <subsection title="Maritime claims">territorial sea: 12 nm<br/>
-         <br/>
-exclusive fishing zone: 200 nm</subsection>
+      <subsection title="Maritime claims">
+         <note title="territorial sea">12 nm</note>
+         <note title="exclusive fishing zone">200 nm</note>
+      </subsection>
       <subsection title="Climate">variable, with mostly westerly winds throughout the year
 interspersed with periods of calm; nearly all precipitation falls
 as snow</subsection>
@@ -47,12 +46,14 @@ as snow</subsection>
 from the sea; South Georgia is largely barren with steep,
 glacier-covered mountains; the South Sandwich Islands are of
 volcanic origin with some active volcanoes</subsection>
-      <subsection title="Elevation">highest point: Mount Paget (South Georgia)
-2,934 m<br/>
-         <br/>
-lowest point: Atlantic Ocean 0 m</subsection>
+      <subsection title="Elevation">
+         <note title="highest point">Mount Paget (South Georgia) 2,934 m</note>
+         <note title="lowest point">Atlantic Ocean 0 m</note>
+      </subsection>
       <subsection title="Natural resources">fish</subsection>
-      <subsection title="Land use">other: 100% (2018 est.)</subsection>
+      <subsection title="Land use">
+         <note title="other">100% (2018 est.)</note>
+      </subsection>
       <subsection title="Irrigated land">0 sq km (2022)</subsection>
       <subsection title="Natural hazards">the South Sandwich Islands have prevailing weather conditions
 that generally make them difficult to approach by ship; they are
@@ -61,57 +62,40 @@ also subject to active volcanism</subsection>
 provide good anchorage</subsection>
    </section>
    <section title="People and Society">
-      <subsection title="Population">(July 2021 est.) no indigenous inhabitants<br/>
-         <br/>
-note: the small military garrison on South Georgia
-withdrew in March 2001, replaced by a permanent group of scientists
-of the British Antarctic Survey, which also has a biological
-station on Bird Island; the South Sandwich Islands are
-uninhabited</subsection>
-      <subsection title="Age structure">0-14 years: NA<br/>
-         <br/>
-15-24 years: NA<br/>
-         <br/>
-25-54 years: NA<br/>
-         <br/>
-55-64 years: NA<br/>
-         <br/>
-65 years and over: NA</subsection>
-      <subsection title="Dependency ratios">total dependency ratio: NA<br/>
-         <br/>
-youth dependency ratio: NA<br/>
-         <br/>
-elderly dependency ratio: NA<br/>
-         <br/>
-potential support ratio: NA</subsection>
+      <subsection title="Population">(July 2021 est.) no indigenous inhabitants
+<note title="note">the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited</note>
+      </subsection>
+      <subsection title="Age structure">
+         <note title="0-14 years">NA</note>
+         <note title="15-24 years">NA</note>
+         <note title="25-54 years">NA</note>
+         <note title="55-64 years">NA</note>
+         <note title="65 years and over">NA</note>
+      </subsection>
+      <subsection title="Dependency ratios">
+         <note title="total dependency ratio">NA</note>
+         <note title="youth dependency ratio">NA</note>
+         <note title="elderly dependency ratio">NA</note>
+         <note title="potential support ratio">NA</note>
+      </subsection>
       <subsection title="Population growth rate">NA</subsection>
       <subsection title="Birth rate">NA</subsection>
       <subsection title="Death rate">NA</subsection>
-      <subsection title="Net migration rate">5.9 migrant(s)/1,000 population<br/>country
+      <subsection title="Net migration rate">5.9 migrant(s)/1,000 populationcountry
 comparison to the world: 16</subsection>
-      <subsection title="Sex ratio">at birth: NA<br/>
-         <br/>
-0-14 years: NA<br/>
-         <br/>
-15-24 years: NA<br/>
-         <br/>
-25-54 years: NA<br/>
-         <br/>
-55-64 years: NA<br/>
-         <br/>
-65 years and over: NA</subsection>
+      <subsection title="Sex ratio">
+         <note title="at birth">NA</note>
+         <note title="0-14 years">NA</note>
+         <note title="15-24 years">NA</note>
+         <note title="25-54 years">NA</note>
+         <note title="55-64 years">NA</note>
+         <note title="65 years and over">NA</note>
+      </subsection>
       <subsection title="Contraceptive prevalence rate">NA</subsection>
-      <subsection title="Drinking water source">improved: urban: NA<br/>
-         <br/>
-rural: NA<br/>
-         <br/>
-total: NA<br/>
-         <br/>
-unimproved: urban: NA<br/>
-         <br/>
-rural: NA<br/>
-         <br/>
-total: NA</subsection>
+      <subsection title="Drinking water source">
+         <note title="improved">urban: NA</note>
+         <note title="unimproved">urban: NA</note>
+      </subsection>
       <subsection title="Current health expenditure">NA</subsection>
       <subsection title="HIV/AIDS - adult prevalence rate">NA</subsection>
       <subsection title="Children under the age of 5 years underweight">NA</subsection>
@@ -127,24 +111,17 @@ the late 18th century</subsection>
       <subsection title="Climate">variable, with mostly westerly winds throughout the year
 interspersed with periods of calm; nearly all precipitation falls
 as snow</subsection>
-      <subsection title="Land use">other: 100% (2018 est.)</subsection>
+      <subsection title="Land use">
+         <note title="other">100% (2018 est.)</note>
+      </subsection>
    </section>
    <section title="Government">
-      <subsection title="Country name">conventional long form: South Georgia and the
-South Sandwich Islands<br/>
-         <br/>
-conventional short form: South Georgia and South
-Sandwich Islands<br/>
-         <br/>
-abbreviation: SGSSI<br/>
-         <br/>
-etymology: South Georgia was named "the Isle of
-Georgia" in 1775 by Captain James COOK in honor of British King
-GEORGE III; the explorer also discovered the Sandwich Islands Group
-that year, which he named "Sandwich Land" after John MONTAGU, the
-Earl of Sandwich and First Lord of the Admiralty; the word "South"
-was later added to distinguish these islands from the other
-Sandwich Islands, now known as the Hawaiian Islands</subsection>
+      <subsection title="Country name">
+         <note title="conventional long form">South Georgia and the South Sandwich Islands</note>
+         <note title="conventional short form">South Georgia and South Sandwich Islands</note>
+         <note title="abbreviation">SGSSI</note>
+         <note title="etymology">South Georgia was named "the Isle of Georgia" in 1775 by Captain James COOK in honor of British King GEORGE III; the explorer also discovered the Sandwich Islands Group that year, which he named "Sandwich Land" after John MONTAGU, the Earl of Sandwich and First Lord of the Admiralty; the word "South" was later added to distinguish these islands from the other Sandwich Islands, now known as the Hawaiian Islands</note>
+      </subsection>
       <subsection title="Dependency status">overseas territory of the UK, also claimed by Argentina;
 administered from the Falkland Islands by a commissioner, who is
 concurrently governor of the Falkland Islands, representing King
@@ -169,7 +146,9 @@ of the islands; all the outer supporting animals represented are
 native to the islands</subsection>
    </section>
    <section title="Transportation">
-      <subsection title="Ports and terminals">major seaport(s): Grytviken</subsection>
+      <subsection title="Ports and terminals">
+         <note title="major seaport(s)">Grytviken</note>
+      </subsection>
    </section>
    <section title="Military and Security">
       <subsection title="Military - note">defense is the responsibility of the UK</subsection>

@@ -17,44 +17,36 @@ official currency on 1 January 2011.</subsection>
 between Latvia and Russia</subsection>
       <subsection title="Geographic coordinates">59 00 N, 26 00 E</subsection>
       <subsection title="Map references">Europe</subsection>
-      <subsection title="Area">total: 45,228 sq km<br/>
-         <br/>
-land: 42,388 sq km<br/>
-         <br/>
-water: 2,840 sq km<br/>
-         <br/>
-note: includes 1,520 islands in the Baltic Sea<br/>country
+      <subsection title="Area">
+         <note title="total">45,228 sq km</note>
+         <note title="land">42,388 sq km</note>
+         <note title="water">2,840 sq km</note>
+         <note title="note">includes 1,520 islands in the Baltic Sea</note>country
 comparison to the world: 132</subsection>
       <subsection title="Area - comparative">about twice the size of New Jersey</subsection>
-      <subsection title="Land boundaries">total: 657 km<br/>
-         <br/>
-border countries (2): Latvia 333 km; Russia 324
-km</subsection>
+      <subsection title="Land boundaries">
+         <note title="total">657 km</note>
+         <note title="border countries (2)">Latvia 333 km; Russia 324 km</note>
+      </subsection>
       <subsection title="Coastline">3,794 km</subsection>
-      <subsection title="Maritime claims">territorial sea: 12 nm<br/>
-         <br/>
-exclusive economic zone: limits as agreed to by
-Estonia, Finland, Latvia, Sweden, and Russia</subsection>
+      <subsection title="Maritime claims">
+         <note title="territorial sea">12 nm</note>
+         <note title="exclusive economic zone">limits as agreed to by Estonia, Finland, Latvia, Sweden, and Russia</note>
+      </subsection>
       <subsection title="Climate">maritime; wet, moderate winters, cool summers</subsection>
       <subsection title="Terrain">marshy, lowlands; flat in the north, hilly in the south</subsection>
-      <subsection title="Elevation">highest point: Suur Munamagi 318 m<br/>
-         <br/>
-lowest point: Baltic Sea 0 m<br/>
-         <br/>
-mean elevation: 61 m</subsection>
+      <subsection title="Elevation">
+         <note title="highest point">Suur Munamagi 318 m</note>
+         <note title="lowest point">Baltic Sea 0 m</note>
+         <note title="mean elevation">61 m</note>
+      </subsection>
       <subsection title="Natural resources">oil shale, peat, rare earth elements, phosphorite, clay,
 limestone, sand, dolomite, arable land, sea mud</subsection>
-      <subsection title="Land use">agricultural land: 22.2% (2018 est.)<br/>
-         <br/>
-arable land: 14.9% (2018 est.)<br/>
-         <br/>
-permanent crops: 0.1% (2018 est.)<br/>
-         <br/>
-permanent pasture: 7.2% (2018 est.)<br/>
-         <br/>
-forest: 52.1% (2018 est.)<br/>
-         <br/>
-other: 25.7% (2018 est.)</subsection>
+      <subsection title="Land use">
+         <note title="agricultural land">22.2% (2018 est.)</note>
+         <note title="forest">52.1% (2018 est.)</note>
+         <note title="other">25.7% (2018 est.)</note>
+      </subsection>
       <subsection title="Irrigated land">20 sq km (2016)</subsection>
       <subsection title="Population distribution">a fairly even distribution throughout most of the country, with
 urban areas attracting larger and denser populations</subsection>
@@ -63,11 +55,12 @@ urban areas attracting larger and denser populations</subsection>
 lie more than 1,500 islands</subsection>
    </section>
    <section title="People and Society">
-      <subsection title="Population">1,211,524 (2022 est.)<br/>country
+      <subsection title="Population">1,211,524 (2022 est.)country
 comparison to the world: 160</subsection>
-      <subsection title="Nationality">noun: Estonian(s)<br/>
-         <br/>
-adjective: Estonian</subsection>
+      <subsection title="Nationality">
+         <note title="noun">Estonian(s)</note>
+         <note title="adjective">Estonian</note>
+      </subsection>
       <subsection title="Ethnic groups">Estonian 68.7%, Russian 24.8%, Ukrainian 1.7%, Belarusian 1%,
 Finn 0.6%, other 1.6%, unspecified 1.6% (2011 est.)</subsection>
       <subsection title="Languages">Estonian (official) 68.5%, Russian 29.6%, Ukrainian 0.6%, other
@@ -75,157 +68,116 @@ Finn 0.6%, other 1.6%, unspecified 1.6% (2011 est.)</subsection>
       <subsection title="Religions">Orthodox 16.2%, Lutheran 9.9%, other Christian (including
 Methodist, Seventh Day Adventist, Roman Catholic, Pentecostal)
 2.2%, other 0.9%, none 54.1%, unspecified 16.7% (2011 est.)</subsection>
-      <subsection title="Age structure">0-14 years: 16.22% (male 102,191/female
-97,116)<br/>
-         <br/>
-15-24 years: 8.86% (male 56,484/female
-52,378)<br/>
-         <br/>
-25-54 years: 40.34% (male 252,273/female
-243,382)<br/>
-         <br/>
-55-64 years: 13.58% (male 76,251/female
-90,576)<br/>
-         <br/>
-65 years and over: 21% (male 89,211/female
-168,762) (2020 est.)</subsection>
-      <subsection title="Dependency ratios">total dependency ratio: 58.3<br/>
-         <br/>
-youth dependency ratio: 26.1<br/>
-         <br/>
-elderly dependency ratio: 32.3<br/>
-         <br/>
-potential support ratio: 3.1 (2021 est.)</subsection>
-      <subsection title="Median age">total: 43.7 years<br/>
-         <br/>
-male: 40.4 years<br/>
-         <br/>
-female: 47 years (2020 est.)<br/>country
+      <subsection title="Age structure">
+         <note title="0-14 years">16.22% (male 102,191/female 97,116)</note>
+         <note title="15-24 years">8.86% (male 56,484/female 52,378)</note>
+         <note title="25-54 years">40.34% (male 252,273/female 243,382)</note>
+         <note title="55-64 years">13.58% (male 76,251/female 90,576)</note>
+         <note title="65 years and over">21% (male 89,211/female 168,762) (2020 est.)</note>
+      </subsection>
+      <subsection title="Dependency ratios">
+         <note title="total dependency ratio">58.3</note>
+         <note title="youth dependency ratio">26.1</note>
+         <note title="elderly dependency ratio">32.3</note>
+         <note title="potential support ratio">3.1 (2021 est.)</note>
+      </subsection>
+      <subsection title="Median age">
+         <note title="total">43.7 years</note>
+         <note title="male">40.4 years</note>
+         <note title="female">47 years (2020 est.)</note>country
 comparison to the world: 21</subsection>
-      <subsection title="Population growth rate">-0.71% (2022 est.)<br/>country
+      <subsection title="Population growth rate">-0.71% (2022 est.)country
 comparison to the world: 228</subsection>
-      <subsection title="Birth rate">8.75 births/1,000 population (2022 est.)<br/>country
+      <subsection title="Birth rate">8.75 births/1,000 population (2022 est.)country
 comparison to the world: 208</subsection>
-      <subsection title="Death rate">13.1 deaths/1,000 population (2022 est.)<br/>country
+      <subsection title="Death rate">13.1 deaths/1,000 population (2022 est.)country
 comparison to the world: 8</subsection>
-      <subsection title="Net migration rate">-2.79 migrant(s)/1,000 population (2022 est.)<br/>country
+      <subsection title="Net migration rate">-2.79 migrant(s)/1,000 population (2022 est.)country
 comparison to the world: 177</subsection>
       <subsection title="Population distribution">a fairly even distribution throughout most of the country, with
 urban areas attracting larger and denser populations</subsection>
-      <subsection title="Urbanization">urban population: 69.8% of total population
-(2023)<br/>
-         <br/>
-rate of urbanization: -0.03% annual rate of change
-(2020-25 est.)</subsection>
+      <subsection title="Urbanization">
+         <note title="urban population">69.8% of total population (2023)</note>
+         <note title="rate of urbanization">-0.03% annual rate of change (2020-25 est.)</note>
+      </subsection>
       <subsection title="Major urban areas - population">454,000 TALLINN (capital) (2023)</subsection>
-      <subsection title="Sex ratio">at birth: 1.05 male(s)/female<br/>
-         <br/>
-0-14 years: 1.05 male(s)/female<br/>
-         <br/>
-15-24 years: 1.08 male(s)/female<br/>
-         <br/>
-25-54 years: 1.05 male(s)/female<br/>
-         <br/>
-55-64 years: 0.85 male(s)/female<br/>
-         <br/>
-65 years and over: 0.42 male(s)/female<br/>
-         <br/>
-total population: 0.89 male(s)/female (2022
-est.)</subsection>
+      <subsection title="Sex ratio">
+         <note title="at birth">1.05 male(s)/female</note>
+         <note title="0-14 years">1.05 male(s)/female</note>
+         <note title="15-24 years">1.08 male(s)/female</note>
+         <note title="25-54 years">1.05 male(s)/female</note>
+         <note title="55-64 years">0.85 male(s)/female</note>
+         <note title="65 years and over">0.42 male(s)/female</note>
+         <note title="total population">0.89 male(s)/female (2022 est.)</note>
+      </subsection>
       <subsection title="Mother's mean age at first birth">28.2 years (2020 est.)</subsection>
-      <subsection title="Maternal mortality ratio">9 deaths/100,000 live births (2017 est.)<br/>country
+      <subsection title="Maternal mortality ratio">9 deaths/100,000 live births (2017 est.)country
 comparison to the world: 147</subsection>
-      <subsection title="Infant mortality rate">total: 3.42 deaths/1,000 live births<br/>
-         <br/>
-male: 3.29 deaths/1,000 live births<br/>
-         <br/>
-female: 3.56 deaths/1,000 live births (2022
-est.)<br/>country
+      <subsection title="Infant mortality rate">
+         <note title="total">3.42 deaths/1,000 live births</note>
+         <note title="male">3.29 deaths/1,000 live births</note>
+         <note title="female">3.56 deaths/1,000 live births (2022 est.)</note>country
 comparison to the world: 200</subsection>
-      <subsection title="Life expectancy at birth">total population: 77.88 years<br/>
-         <br/>
-male: 73.25 years<br/>
-         <br/>
-female: 82.73 years (2022 est.)<br/>country
+      <subsection title="Life expectancy at birth">
+         <note title="total population">77.88 years</note>
+         <note title="male">73.25 years</note>
+         <note title="female">82.73 years (2022 est.)</note>country
 comparison to the world: 82</subsection>
-      <subsection title="Total fertility rate">1.61 children born/woman (2022 est.)<br/>country
+      <subsection title="Total fertility rate">1.61 children born/woman (2022 est.)country
 comparison to the world: 182</subsection>
       <subsection title="Gross reproduction rate">0.79 (2023 est.)</subsection>
       <subsection title="Contraceptive prevalence rate">NA</subsection>
-      <subsection title="Drinking water source">improved: urban: 100% of population<br/>
-         <br/>
-rural: NA<br/>
-         <br/>
-total: 99.6% of population<br/>
-         <br/>
-unimproved: urban: 0% of population<br/>
-         <br/>
-rural: NA<br/>
-         <br/>
-total: 0.4% of population (2020 est.)</subsection>
+      <subsection title="Drinking water source">
+         <note title="improved">urban: 100% of population</note>
+         <note title="unimproved">urban: 0% of population</note>
+      </subsection>
       <subsection title="Current health expenditure">7.8% of GDP (2020)</subsection>
       <subsection title="Physicians density">3.47 physicians/1,000 population (2019)</subsection>
       <subsection title="Hospital bed density">4.6 beds/1,000 population (2018)</subsection>
-      <subsection title="Sanitation facility access">improved: urban: 99.8% of population<br/>
-         <br/>
-rural: 100% of population<br/>
-         <br/>
-total: 99.8% of population<br/>
-         <br/>
-unimproved: urban: 0.2% of population<br/>
-         <br/>
-rural: 0% of population<br/>
-         <br/>
-total: 0.2% of population (2020 est.)</subsection>
+      <subsection title="Sanitation facility access">
+         <note title="improved">urban: 99.8% of population</note>
+         <note title="unimproved">urban: 0.2% of population</note>
+      </subsection>
       <subsection title="HIV/AIDS - adult prevalence rate">NA</subsection>
-      <subsection title="Major infectious diseases">degree of risk: intermediate (2020)<br/>
-         <br/>
-vectorborne diseases: tickborne encephalitis</subsection>
-      <subsection title="Obesity - adult prevalence rate">21.2% (2016)<br/>country
+      <subsection title="Major infectious diseases">
+         <note title="degree of risk">intermediate (2020)</note>
+         <note title="vectorborne diseases">tickborne encephalitis</note>
+      </subsection>
+      <subsection title="Obesity - adult prevalence rate">21.2% (2016)country
 comparison to the world: 92</subsection>
-      <subsection title="Alcohol consumption per capita">total: 11.65 liters of pure alcohol (2019
-est.)<br/>
-         <br/>
-beer: 4 liters of pure alcohol (2019 est.)<br/>
-         <br/>
-wine: 1.92 liters of pure alcohol (2019
-est.)<br/>
-         <br/>
-spirits: 4.6 liters of pure alcohol (2019
-est.)<br/>
-         <br/>
-other alcohols: 1.13 liters of pure alcohol (2019
-est.)<br/>country
+      <subsection title="Alcohol consumption per capita">
+         <note title="total">11.65 liters of pure alcohol (2019 est.)</note>
+         <note title="beer">4 liters of pure alcohol (2019 est.)</note>
+         <note title="wine">1.92 liters of pure alcohol (2019 est.)</note>
+         <note title="spirits">4.6 liters of pure alcohol (2019 est.)</note>
+         <note title="other alcohols">1.13 liters of pure alcohol (2019 est.)</note>country
 comparison to the world: 7</subsection>
-      <subsection title="Tobacco use">total: 29.7% (2020 est.)<br/>
-         <br/>
-male: 36.3% (2020 est.)<br/>
-         <br/>
-female: 23% (2020 est.)<br/>country
+      <subsection title="Tobacco use">
+         <note title="total">29.7% (2020 est.)</note>
+         <note title="male">36.3% (2020 est.)</note>
+         <note title="female">23% (2020 est.)</note>country
 comparison to the world: 32</subsection>
-      <subsection title="Children under the age of 5 years underweight">0.4% (2013/15)<br/>country
+      <subsection title="Children under the age of 5 years underweight">0.4% (2013/15)country
 comparison to the world: 128</subsection>
       <subsection title="Currently married women (ages 15-49)">52.3% (2023 est.)</subsection>
-      <subsection title="Education expenditures">6.6% of GDP (2020 est.)<br/>country
+      <subsection title="Education expenditures">6.6% of GDP (2020 est.)country
 comparison to the world: 27</subsection>
-      <subsection title="Literacy">definition: age 15 and over can read and
-write<br/>
-         <br/>
-total population: 99.8%<br/>
-         <br/>
-male: 99.8%<br/>
-         <br/>
-female: 99.8% (2015)</subsection>
-      <subsection title="School life expectancy (primary to tertiary education)">total: 16 years<br/>
-         <br/>
-male: 15 years<br/>
-         <br/>
-female: 17 years (2020)</subsection>
-      <subsection title="Youth unemployment rate (ages 15-24)">total: 17.1%<br/>
-         <br/>
-male: 16.5%<br/>
-         <br/>
-female: 17.8% (2021 est.)</subsection>
+      <subsection title="Literacy">
+         <note title="definition">age 15 and over can read and write</note>
+         <note title="total population">99.8%</note>
+         <note title="male">99.8%</note>
+         <note title="female">99.8% (2015)</note>
+      </subsection>
+      <subsection title="School life expectancy (primary to tertiary education)">
+         <note title="total">16 years</note>
+         <note title="male">15 years</note>
+         <note title="female">17 years (2020)</note>
+      </subsection>
+      <subsection title="Youth unemployment rate (ages 15-24)">
+         <note title="total">17.1%</note>
+         <note title="male">16.5%</note>
+         <note title="female">17.8% (2021 est.)</note>
+      </subsection>
    </section>
    <section title="Environment">
       <subsection title="Environment - current issues">air polluted with sulfur dioxide from oil-shale burning power
@@ -236,118 +188,69 @@ to improved technology and environmental monitoring; Estonia has
 more than 1,400 natural and manmade lakes, the smaller of which in
 agricultural areas need to be monitored; coastal seawater is
 polluted in certain locations</subsection>
-      <subsection title="Environment - international agreements">party to: Air Pollution, Air Pollution-Heavy
-Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent
-Organic Pollutants, Air Pollution-Sulphur 85, Air
-Pollution-Volatile Organic Compounds, Antarctic Treaty,
-Biodiversity, Climate Change, Climate Change-Kyoto Protocol,
-Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban,
-Desertification, Endangered Species, Environmental Modification,
-Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol,
-Ozone Layer Protection, Ship Pollution, Tropical Timber 2006,
-Wetlands, Whaling<br/>
-         <br/>
-signed, but not ratified: none of the selected
-agreements</subsection>
-      <subsection title="Air pollutants">particulate matter emissions: 6.74 micrograms
-per cubic meter (2016 est.)<br/>
-         <br/>
-carbon dioxide emissions: 16.59 megatons (2016
-est.)<br/>
-         <br/>
-methane emissions: 0.99 megatons (2020 est.)</subsection>
+      <subsection title="Environment - international agreements">
+         <note title="party to">Air Pollution, Air Pollution-Heavy Metals, Air Pollution-Nitrogen Oxides, Air Pollution-Persistent Organic Pollutants, Air Pollution-Sulphur 85, Air Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Environmental Modification, Hazardous Wastes, Law of the Sea, Marine Dumping-London Protocol, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands, Whaling</note>
+         <note title="signed, but not ratified">none of the selected agreements</note>
+      </subsection>
+      <subsection title="Air pollutants">
+         <note title="particulate matter emissions">6.74 micrograms per cubic meter (2016 est.)</note>
+         <note title="carbon dioxide emissions">16.59 megatons (2016 est.)</note>
+         <note title="methane emissions">0.99 megatons (2020 est.)</note>
+      </subsection>
       <subsection title="Climate">maritime; wet, moderate winters, cool summers</subsection>
-      <subsection title="Land use">agricultural land: 22.2% (2018 est.)<br/>
-         <br/>
-arable land: 14.9% (2018 est.)<br/>
-         <br/>
-permanent crops: 0.1% (2018 est.)<br/>
-         <br/>
-permanent pasture: 7.2% (2018 est.)<br/>
-         <br/>
-forest: 52.1% (2018 est.)<br/>
-         <br/>
-other: 25.7% (2018 est.)</subsection>
-      <subsection title="Urbanization">urban population: 69.8% of total population
-(2023)<br/>
-         <br/>
-rate of urbanization: -0.03% annual rate of change
-(2020-25 est.)</subsection>
-      <subsection title="Revenue from forest resources">forest revenues: 0.85% of GDP (2018 est.)<br/>country
+      <subsection title="Land use">
+         <note title="agricultural land">22.2% (2018 est.)</note>
+         <note title="forest">52.1% (2018 est.)</note>
+         <note title="other">25.7% (2018 est.)</note>
+      </subsection>
+      <subsection title="Urbanization">
+         <note title="urban population">69.8% of total population (2023)</note>
+         <note title="rate of urbanization">-0.03% annual rate of change (2020-25 est.)</note>
+      </subsection>
+      <subsection title="Revenue from forest resources">
+         <note title="forest revenues">0.85% of GDP (2018 est.)</note>country
 comparison to the world: 55</subsection>
-      <subsection title="Revenue from coal">coal revenues: 0% of GDP (2018 est.)<br/>country
+      <subsection title="Revenue from coal">
+         <note title="coal revenues">0% of GDP (2018 est.)</note>country
 comparison to the world: 95</subsection>
-      <subsection title="Major infectious diseases">degree of risk: intermediate (2020)<br/>
-         <br/>
-vectorborne diseases: tickborne encephalitis</subsection>
-      <subsection title="Waste and recycling">municipal solid waste generated annually:
-473,000 tons (2015 est.)<br/>
-         <br/>
-municipal solid waste recycled annually: 117,020
-tons (2015 est.)<br/>
-         <br/>
-percent of municipal solid waste recycled: 24.7%
-(2015 est.)</subsection>
-      <subsection title="Total water withdrawal">municipal: 59.4 million cubic meters (2017
-est.)<br/>
-         <br/>
-industrial: 1.721 billion cubic meters (2017
-est.)<br/>
-         <br/>
-agricultural: 4.5 million cubic meters (2017
-est.)</subsection>
+      <subsection title="Major infectious diseases">
+         <note title="degree of risk">intermediate (2020)</note>
+         <note title="vectorborne diseases">tickborne encephalitis</note>
+      </subsection>
+      <subsection title="Waste and recycling">
+         <note title="municipal solid waste generated annually">473,000 tons (2015 est.)</note>
+         <note title="municipal solid waste recycled annually">117,020 tons (2015 est.)</note>
+         <note title="percent of municipal solid waste recycled">24.7% (2015 est.)</note>
+      </subsection>
+      <subsection title="Total water withdrawal">
+         <note title="municipal">59.4 million cubic meters (2017 est.)</note>
+         <note title="industrial">1.721 billion cubic meters (2017 est.)</note>
+         <note title="agricultural">4.5 million cubic meters (2017 est.)</note>
+      </subsection>
       <subsection title="Total renewable water resources">12.806 billion cubic meters (2019 est.)</subsection>
    </section>
    <section title="Government">
-      <subsection title="Country name">conventional long form: Republic of
-Estonia<br/>
-         <br/>
-conventional short form: Estonia<br/>
-         <br/>
-local long form: Eesti Vabariik<br/>
-         <br/>
-local short form: Eesti<br/>
-         <br/>
-former: Estonian Soviet Socialist Republic (while
-occupied by the USSR)<br/>
-         <br/>
-etymology: the country name may derive from the
-Aesti, an ancient people who lived along the eastern Baltic Sea in
-the first centuries A.D.</subsection>
+      <subsection title="Country name">
+         <note title="conventional long form">Republic of Estonia</note>
+         <note title="conventional short form">Estonia</note>
+         <note title="local long form">Eesti Vabariik</note>
+         <note title="local short form">Eesti</note>
+         <note title="former">Estonian Soviet Socialist Republic (while occupied by the USSR)</note>
+         <note title="etymology">the country name may derive from the Aesti, an ancient people who lived along the eastern Baltic Sea in the first centuries A.D.</note>
+      </subsection>
       <subsection title="Government type">parliamentary republic</subsection>
-      <subsection title="Capital">name: Tallinn<br/>
-         <br/>
-geographic coordinates: 59 26 N, 24 43 E<br/>
-         <br/>
-time difference: UTC+2 (7 hours ahead of
-Washington, DC, during Standard Time)<br/>
-         <br/>
-daylight saving time: +1hr, begins last Sunday in
-March; ends last Sunday in October<br/>
-         <br/>
-etymology: the Estonian name is generally believed
-to be derived from "Taani-linn" (originally meaning "Danish
-castle", now "Danish town") after a stronghold built in the area by
-the Danes; it could also have come from "tali-linn" ("winter
-castle" or "winter town") or "talu-linn" ("home castle" or "home
-town")</subsection>
+      <subsection title="Capital">
+         <note title="name">Tallinn</note>
+         <note title="geographic coordinates">59 26 N, 24 43 E</note>
+         <note title="time difference">UTC+2 (7 hours ahead of Washington, DC, during Standard Time)</note>
+         <note title="daylight saving time">+1hr, begins last Sunday in March; ends last Sunday in October</note>
+         <note title="etymology">the Estonian name is generally believed to be derived from "Taani-linn" (originally meaning "Danish castle", now "Danish town") after a stronghold built in the area by the Danes; it could also have come from "tali-linn" ("winter castle" or "winter town") or "talu-linn" ("home castle" or "home town")</note>
+      </subsection>
       <subsection title="Administrative divisions">15 urban municipalities (linnad, singular - linn), 64 rural
-municipalities (vallad, singular vald)<br/>
-         <br/>
-urban municipalities: Haapsalu, Keila,
-Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu,
-Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru<br/>
-         <br/>
-rural municipalities: Alutaguse, Anija, Antsla,
-Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme,
-Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu,
-Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula,
-Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo,
-Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva,
-Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde,
-Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila,
-Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi,
-Vinni, Viru-Nigula, Vormsi, Voru</subsection>
+municipalities (vallad, singular vald)
+<note title="urban municipalities">Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru</note>
+         <note title="rural municipalities">Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru</note>
+      </subsection>
       <subsection title="Independence">24 February 1918 (from Soviet Russia); 20 August 1991 (declared
 from the Soviet Union); 6 September 1991 (recognized by the Soviet
 Union)</subsection>
@@ -356,40 +259,25 @@ was the date Estonia declared its independence from Soviet Russia
 and established its statehood; 20 August 1991 was the date it
 declared its independence from the Soviet Union restoring its
 statehood</subsection>
-      <subsection title="Constitution">history: several previous; latest adopted 28
-June 1992, entered into force 3 July 1992<br/>
-         <br/>
-amendments: proposed by at least one-fifth of
-Parliament members or by the president of the republic; passage
-requires three readings of the proposed amendment and a simple
-majority vote in two successive memberships of Parliament; passage
-of amendments to the "General Provisions" and "Amendment of the
-Constitution" chapters requires at least three-fifths majority vote
-by Parliament to conduct a referendum and majority vote in a
-referendum; amended several times, last in 2015</subsection>
+      <subsection title="Constitution">
+         <note title="history">several previous; latest adopted 28 June 1992, entered into force 3 July 1992</note>
+         <note title="amendments">proposed by at least one-fifth of Parliament members or by the president of the republic; passage requires three readings of the proposed amendment and a simple majority vote in two successive memberships of Parliament; passage of amendments to the "General Provisions" and "Amendment of the Constitution" chapters requires at least three-fifths majority vote by Parliament to conduct a referendum and majority vote in a referendum; amended several times, last in 2015</note>
+      </subsection>
       <subsection title="Legal system">civil law system</subsection>
       <subsection title="International law organization participation">accepts compulsory ICJ jurisdiction with reservations; accepts
 ICCt jurisdiction</subsection>
-      <subsection title="Citizenship">citizenship by birth: no<br/>
-         <br/>
-citizenship by descent only: at least one parent
-must be a citizen of Estonia<br/>
-         <br/>
-dual citizenship recognized: no<br/>
-         <br/>
-residency requirement for naturalization: 5
-years</subsection>
+      <subsection title="Citizenship">
+         <note title="citizenship by birth">no</note>
+         <note title="citizenship by descent only">at least one parent must be a citizen of Estonia</note>
+         <note title="dual citizenship recognized">no</note>
+         <note title="residency requirement for naturalization">5 years</note>
+      </subsection>
       <subsection title="Suffrage">18 years of age; universal; age 16 for local elections</subsection>
-      <subsection title="Executive branch">chief of state: President Alar KARIS (since 11
-October 2021)<br/>
-         <br/>
-head of government: Prime Minister Kaja KALLAS
-(since 26 January 2021)<br/>
-         <br/>
-cabinet: Cabinet appointed by the prime minister,
-approved by Parliament<br/>
-         <br/>
-elections/appointments:president indirectly elected by Parliament for a 5-year term
+      <subsection title="Executive branch">
+         <note title="chief of state">President Alar KARIS (since 11 October 2021)</note>
+         <note title="head of government">Prime Minister Kaja KALLAS (since 26 January 2021)</note>
+         <note title="cabinet">Cabinet appointed by the prime minister, approved by Parliament</note>
+         <note title="elections/appointments"/>president indirectly elected by Parliament for a 5-year term
 (eligible for a second term); if a candidate does not secure two
 thirds of the votes after 3 rounds of balloting, then an electoral
 college consisting of Parliament members and local council members
@@ -399,43 +287,29 @@ highest number of votes; election last held on 30-31 August 2021
 parliament failed to elect a president; in a second round on 31
 August, the sole candidate, Alar KARIS, received 72 votes of 101
 votes (there were 8 blank votes and 21 electors not present); prime
-minister nominated by the president and approved by Parliament<br/>
-         <br/>election results:2021: Alar KARIS elected president; parliamentary vote
+minister nominated by the president and approved by Parliament<note title="election results"/>2021: Alar KARIS elected president; parliamentary vote
 Alar KARIS (independent) 72 of 101 votes;  KALLAS is Estonia's
-first female prime minister<br/>
-         <br/>
+first female prime minister
+
 2016: Kersti KALJULAID is indirectly elected president
 with 81 of 98 votes in parliament (17 ballots blank). She is sworn
 in on October 10 as the first female head of state of Estonia.</subsection>
-      <subsection title="Legislative branch">description: unicameral Parliament or Riigikogu
-(101 seats; members directly elected in multi-seat constituencies
-by open- list proportional representation vote to serve 4-year
-terms)<br/>
-         <br/>
-elections: last held on 3 March 2019 (next to be
-held in March 2023)<br/>
-         <br/>
-election results: percent of vote by party - RE
-28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%;
-seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10;
-composition - men 75, women 26, percent of women 25.7%</subsection>
-      <subsection title="Judicial branch">highest court(s): Supreme Court (consists of 19
-justices, including the chief justice, and organized into civil,
-criminal, administrative, and constitutional review chambers)<br/>
-         <br/>
-judge selection and term of office: the chief
-justice is proposed by the president of the republic and appointed
-by the Riigikogu; other justices proposed by the chief justice and
-appointed by the Riigikogu; justices appointed for life<br/>
-         <br/>
-subordinate courts: circuit (appellate) courts;
-administrative, county, city, and specialized courts</subsection>
-      <subsection title="Political parties and leaders">Center Party of Estonia (Keskerakond) or K [Juri RATAS]<br/>
-Estonia 200 [Kristina KALLAS]<br/>
+      <subsection title="Legislative branch">
+         <note title="description">unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)</note>
+         <note title="elections">last held on 3 March 2019 (next to be held in March 2023)</note>
+         <note title="election results">percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 75, women 26, percent of women 25.7%</note>
+      </subsection>
+      <subsection title="Judicial branch">
+         <note title="highest court(s)">Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)</note>
+         <note title="judge selection and term of office">the chief justice is proposed by the president of the republic and appointed by the Riigikogu; other justices proposed by the chief justice and appointed by the Riigikogu; justices appointed for life</note>
+         <note title="subordinate courts">circuit (appellate) courts; administrative, county, city, and specialized courts</note>
+      </subsection>
+      <subsection title="Political parties and leaders">Center Party of Estonia (Keskerakond) or K [Juri RATAS]
+Estonia 200 [Kristina KALLAS]
 Estonian Conservative People's Party (Konservatiivne Rahvaerakond)
-or EKRE [Martin HELME]<br/>
-Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]<br/>
-Pro Patria (Isamaa) [Helir-Valdor SEEDER]<br/>
+or EKRE [Martin HELME]
+Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]
+Pro Patria (Isamaa) [Helir-Valdor SEEDER]
 Social Democratic Party or SDE [Lauri LAANEMETS]</subsection>
       <subsection title="International organization participation">Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB,
 EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC
@@ -445,38 +319,20 @@ ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC
 (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD,
 UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO,
 WMO, WTO</subsection>
-      <subsection title="Diplomatic representation in the US">chief of mission: Ambassador Kristjan PRIKK
-(since 7 July 2021)<br/>
-         <br/>
-chancery: 1990 K Street NW, Washington, DC
-20006<br/>
-         <br/>
-telephone: [1] (202) 588-0101<br/>
-         <br/>
-FAX: [1] (202) 588-0108<br/>
-         <br/>
-email address and website:<br/>
-Embassy.Washington@mfa.ee<br/>
-         <br/>
-         <br/>https://washington.mfa.ee/<br/>
-         <br/>
-consulate(s) general: New York, San Francisco</subsection>
-      <subsection title="Diplomatic representation from the US">chief of mission: Ambassador Designate George
-P. KENT<br/>
-         <br/>
-embassy: Kentmanni 20, 15099 Tallinn<br/>
-         <br/>
-mailing address: 4530 Tallinn Place, Washington
-DC  20521-4530<br/>
-         <br/>
-telephone: [372] 668-8100<br/>
-         <br/>
-FAX: [372] 668-8265<br/>
-         <br/>
-email address and website:<br/>
-acstallinn@state.gov<br/>
-         <br/>
-         <br/>https://ee.usembassy.gov/</subsection>
+      <subsection title="Diplomatic representation in the US">
+         <note title="chief of mission">Ambassador Kristjan PRIKK (since 7 July 2021)</note>
+         <note title="chancery">1990 K Street NW, Washington, DC 20006</note>
+         <note title="telephone">[1] (202) 588-0101</note>
+         <note title="FAX">[1] (202) 588-0108</note>
+         <note title="email address and website">Embassy.Washington@mfa.ee</note>https://washington.mfa.ee/<note title="consulate(s) general">New York, San Francisco</note>
+      </subsection>
+      <subsection title="Diplomatic representation from the US">
+         <note title="chief of mission">Ambassador Designate George P. KENT</note>
+         <note title="embassy">Kentmanni 20, 15099 Tallinn</note>
+         <note title="mailing address">4530 Tallinn Place, Washington DC  20521-4530</note>
+         <note title="telephone">[372] 668-8100</note>
+         <note title="FAX">[372] 668-8265</note>
+         <note title="email address and website">acstallinn@state.gov</note>https://ee.usembassy.gov/</subsection>
       <subsection title="Flag description">three equal horizontal bands of blue (top), black, and white;
 various interpretations are linked to the flag colors; blue
 represents faith, loyalty, and devotion, while also reminiscent of
@@ -487,326 +343,239 @@ and virtue, and is the color of birch bark and snow, as well as
 summer nights illuminated by the midnight sun</subsection>
       <subsection title="National symbol(s)">barn swallow, cornflower; national colors: blue, black,
 white</subsection>
-      <subsection title="National anthem">name: "Mu isamaa, mu onn ja room" (My Native
-Land, My Pride and Joy)<br/>
-         <br/>
-lyrics/music: Johann Voldemar JANNSEN/Fredrik
-PACIUS<br/>
-         <br/>
-note: adopted 1920, though banned between 1940 and
-1990 under Soviet occupation; the anthem, used in Estonia since
-1869, shares the same melody as Finland's but has different
-lyrics</subsection>
-      <subsection title="National heritage">total World Heritage Sites: 2 (both
-cultural)<br/>
-         <br/>
-selected World Heritage Site locales: <br/>Historic Center (Old Town) of
-Tallinn; Struve Geodetic Arc</subsection>
+      <subsection title="National anthem">
+         <note title="name">"Mu isamaa, mu onn ja room" (My Native Land, My Pride and Joy)</note>
+         <note title="lyrics/music">Johann Voldemar JANNSEN/Fredrik PACIUS</note>
+         <note title="note">adopted 1920, though banned between 1940 and 1990 under Soviet occupation; the anthem, used in Estonia since 1869, shares the same melody as Finland's but has different lyrics</note>
+      </subsection>
+      <subsection title="National heritage">
+         <note title="total World Heritage Sites">2 (both cultural)</note>
+         <note title="selected World Heritage Site locales"/>Historic Center (Old Town) of
+Tallinn</subsection>
    </section>
    <section title="Economy">
       <subsection title="Economic overview">advanced service-based EU and OECD economy; regional trade and
 telecommunications leader; recently rejected Baltic sea rail tunnel
 from Tallinn to Helsinki; flat income taxation; substantial welfare
 system; balanced budget culture; business-friendly climate</subsection>
-      <subsection title="Real GDP (purchasing power parity)">$51.531 billion (2021 est.)<br/>
-         <br/>
-$47.708 billion (2020 est.)<br/>
-         <br/>
-$47.972 billion (2019 est.)<br/>
-         <br/>
-note: data are in 2017 dollars<br/>country
+      <subsection title="Real GDP (purchasing power parity)">$51.531 billion (2021 est.)
+
+$47.708 billion (2020 est.)
+
+$47.972 billion (2019 est.)
+<note title="note">data are in 2017 dollars</note>country
 comparison to the world: 112</subsection>
-      <subsection title="Real GDP growth rate">8.01% (2021 est.)<br/>
-         <br/>
--0.55% (2020 est.)<br/>
-         <br/>
-3.74% (2019 est.)<br/>country
+      <subsection title="Real GDP growth rate">8.01% (2021 est.)
+
+-0.55% (2020 est.)
+
+3.74% (2019 est.)country
 comparison to the world: 39</subsection>
-      <subsection title="Real GDP per capita">$38,700 (2021 est.)<br/>
-         <br/>
-$35,900 (2020 est.)<br/>
-         <br/>
-$36,200 (2019 est.)<br/>
-         <br/>
-note: data are in 2017 dollars<br/>country
+      <subsection title="Real GDP per capita">$38,700 (2021 est.)
+
+$35,900 (2020 est.)
+
+$36,200 (2019 est.)
+<note title="note">data are in 2017 dollars</note>country
 comparison to the world: 52</subsection>
       <subsection title="GDP (official exchange rate)">$31.461 billion (2019 est.)</subsection>
-      <subsection title="Inflation rate (consumer prices)">4.65% (2021 est.)<br/>
-         <br/>
--0.44% (2020 est.)<br/>
-         <br/>
-2.28% (2019 est.)<br/>country
+      <subsection title="Inflation rate (consumer prices)">4.65% (2021 est.)
+
+-0.44% (2020 est.)
+
+2.28% (2019 est.)country
 comparison to the world: 154</subsection>
-      <subsection title="Credit ratings">Fitch rating: AA- (2018)<br/>
-         <br/>
-Moody's rating: A1 (2002)<br/>
-         <br/>
-Standard &amp; Poors rating: AA- (2011)<br/>
-         <br/>
-note: The year refers to the year in which the
-current credit rating was first obtained.</subsection>
-      <subsection title="GDP - composition, by sector of origin">agriculture: 2.8% (2017 est.)<br/>
-         <br/>
-industry: 29.2% (2017 est.)<br/>
-         <br/>
-services: 68.1% (2017 est.)</subsection>
-      <subsection title="GDP - composition, by end use">household consumption: 50.3% (2017 est.)<br/>
-         <br/>
-government consumption: 20.4% (2017 est.)<br/>
-         <br/>
-investment in fixed capital: 24% (2017 est.)<br/>
-         <br/>
-investment in inventories: 2.2% (2017 est.)<br/>
-         <br/>
-exports of goods and services: 77.2% (2017
-est.)<br/>
-         <br/>
-imports of goods and services: -74% (2017
-est.)</subsection>
+      <subsection title="Credit ratings">
+         <note title="Fitch rating">AA- (2018)</note>
+         <note title="Moody's rating">A1 (2002)</note>
+         <note title="Standard &amp; Poors rating">AA- (2011)</note>
+         <note title="note">The year refers to the year in which the current credit rating was first obtained.</note>
+      </subsection>
+      <subsection title="GDP - composition, by sector of origin">
+         <note title="agriculture">2.8% (2017 est.)</note>
+         <note title="industry">29.2% (2017 est.)</note>
+         <note title="services">68.1% (2017 est.)</note>
+      </subsection>
+      <subsection title="GDP - composition, by end use">
+         <note title="household consumption">50.3% (2017 est.)</note>
+         <note title="government consumption">20.4% (2017 est.)</note>
+         <note title="investment in fixed capital">24% (2017 est.)</note>
+         <note title="investment in inventories">2.2% (2017 est.)</note>
+         <note title="exports of goods and services">77.2% (2017 est.)</note>
+         <note title="imports of goods and services">-74% (2017 est.)</note>
+      </subsection>
       <subsection title="Agricultural products">wheat, milk, barley, rapeseeds, rye, oats, peas, potatoes, pork,
 triticale</subsection>
       <subsection title="Industries">food, engineering, electronics, wood and wood products,
 textiles; information technology, telecommunications</subsection>
-      <subsection title="Industrial production growth rate">7.13% (2021 est.)<br/>country
+      <subsection title="Industrial production growth rate">7.13% (2021 est.)country
 comparison to the world: 60</subsection>
-      <subsection title="Labor force">704,700 (2021 est.)<br/>country
+      <subsection title="Labor force">704,700 (2021 est.)country
 comparison to the world: 154</subsection>
-      <subsection title="Labor force - by occupation">agriculture: 2.7%<br/>
-         <br/>
-industry: 20.5%<br/>
-         <br/>
-services: 76.8% (2017 est.)</subsection>
-      <subsection title="Unemployment rate">6.33% (2021 est.)<br/>
-         <br/>
-6.8% (2020 est.)<br/>
-         <br/>
-4.45% (2019 est.)<br/>country
+      <subsection title="Labor force - by occupation">
+         <note title="agriculture">2.7%</note>
+         <note title="industry">20.5%</note>
+         <note title="services">76.8% (2017 est.)</note>
+      </subsection>
+      <subsection title="Unemployment rate">6.33% (2021 est.)
+
+6.8% (2020 est.)
+
+4.45% (2019 est.)country
 comparison to the world: 104</subsection>
-      <subsection title="Youth unemployment rate (ages 15-24)">total: 17.1%<br/>
-         <br/>
-male: 16.5%<br/>
-         <br/>
-female: 17.8% (2021 est.)<br/>country
+      <subsection title="Youth unemployment rate (ages 15-24)">
+         <note title="total">17.1%</note>
+         <note title="male">16.5%</note>
+         <note title="female">17.8% (2021 est.)</note>country
 comparison to the world: 101</subsection>
       <subsection title="Population below poverty line">21.7% (2018 est.)</subsection>
-      <subsection title="Gini Index coefficient - distribution of family income">30.8 (2019 est.)<br/>country
+      <subsection title="Gini Index coefficient - distribution of family income">30.8 (2019 est.)country
 comparison to the world: 143</subsection>
-      <subsection title="Household income or consumption by percentage share">lowest 10%: 2.3%<br/>
-         <br/>
-highest 10%: 25.6% (2015)</subsection>
-      <subsection title="Budget">revenues: $10.37 billion (2017 est.)<br/>
-         <br/>
-expenditures: $10.44 billion (2017 est.)</subsection>
-      <subsection title="Budget surplus (+) or deficit (-)">-0.3% (of GDP) (2017 est.)<br/>country
+      <subsection title="Household income or consumption by percentage share">
+         <note title="lowest 10%">2.3%</note>
+         <note title="highest 10%">25.6% (2015)</note>
+      </subsection>
+      <subsection title="Budget">
+         <note title="revenues">$10.37 billion (2017 est.)</note>
+         <note title="expenditures">$10.44 billion (2017 est.)</note>
+      </subsection>
+      <subsection title="Budget surplus (+) or deficit (-)">-0.3% (of GDP) (2017 est.)country
 comparison to the world: 52</subsection>
-      <subsection title="Public debt">23.77% of GDP (2020 est.)<br/>
-         <br/>
-14.05% of GDP (2019 est.)<br/>
-         <br/>
-13.46% of GDP (2018 est.)<br/>
-         <br/>
-note: data cover general government debt and
-include debt instruments issued (or owned) by government entities,
-including sub-sectors of central government, state government,
-local government, and social security funds<br/>country
+      <subsection title="Public debt">23.77% of GDP (2020 est.)
+
+14.05% of GDP (2019 est.)
+
+13.46% of GDP (2018 est.)
+<note title="note">data cover general government debt and include debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds</note>country
 comparison to the world: 181</subsection>
-      <subsection title="Taxes and other revenues">20.69% (of GDP) (2020 est.)<br/>country
+      <subsection title="Taxes and other revenues">20.69% (of GDP) (2020 est.)country
 comparison to the world: 84</subsection>
       <subsection title="Fiscal year">calendar year</subsection>
-      <subsection title="Current account balance">-$709.328 million (2021 est.)<br/>
-         <br/>
--$370.205 million (2020 est.)<br/>
-         <br/>
-$735.796 million (2019 est.)<br/>country
+      <subsection title="Current account balance">-$709.328 million (2021 est.)
+
+-$370.205 million (2020 est.)
+
+$735.796 million (2019 est.)country
 comparison to the world: 126</subsection>
       <subsection title="Exports">$29.056 billion (2021 est.) note: data are in current year
-dollars<br/>
-         <br/>
+dollars
+
 $21.769 billion (2020 est.) note: data are in current year
-dollars<br/>
-         <br/>
+dollars
+
 $22.962 billion (2019 est.) note: data are in current year
-dollars<br/>country
+dollarscountry
 comparison to the world: 75</subsection>
       <subsection title="Exports - partners">Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%,
 Lithuania 6%, Germany 6% (2019)</subsection>
       <subsection title="Exports - commodities">broadcasting equipment, refined petroleum, coal tar oil, cars,
 prefabricated buildings (2019)</subsection>
       <subsection title="Imports">$29.234 billion (2021 est.) note: data are in current year
-dollars<br/>
-         <br/>
+dollars
+
 $21.813 billion (2020 est.) note: data are in current year
-dollars<br/>
-         <br/>
+dollars
+
 $21.712 billion (2019 est.) note: data are in current year
-dollars<br/>country
+dollarscountry
 comparison to the world: 73</subsection>
       <subsection title="Imports - partners">Russia 12%, Germany 10%, Finland 9%, Lithuania 7%, Latvia 7%,
 Sweden 6%, Poland 6%, China 6% (2019)</subsection>
       <subsection title="Imports - commodities">cars, refined petroleum, coal tar oil, broadcasting equipment,
 packaged medicines (2019)</subsection>
-      <subsection title="Reserves of foreign exchange and gold">$2.371 billion (31 December 2021 est.)<br/>
-         <br/>
-$1.997 billion (31 December 2020 est.)<br/>
-         <br/>
-$1.426 billion (31 December 2019 est.)<br/>country
+      <subsection title="Reserves of foreign exchange and gold">$2.371 billion (31 December 2021 est.)
+
+$1.997 billion (31 December 2020 est.)
+
+$1.426 billion (31 December 2019 est.)country
 comparison to the world: 126</subsection>
-      <subsection title="Debt - external">$23.944 billion (2019 est.)<br/>
-         <br/>
-$23.607 billion (2018 est.)<br/>country
+      <subsection title="Debt - external">$23.944 billion (2019 est.)
+
+$23.607 billion (2018 est.)country
 comparison to the world: 88</subsection>
-      <subsection title="Exchange rates">euros (EUR) per US dollar -<br/>
-         <br/>
-0.845 (2021 est.)<br/>
-         <br/>
-0.876 (2020 est.)<br/>
-         <br/>
-0.893 (2019 est.)<br/>
-         <br/>
-0.847 (2018 est.)<br/>
-         <br/>
+      <subsection title="Exchange rates">euros (EUR) per US dollar -
+
+0.845 (2021 est.)
+
+0.876 (2020 est.)
+
+0.893 (2019 est.)
+
+0.847 (2018 est.)
+
 0.885 (2017 est.)</subsection>
    </section>
    <section title="Energy">
-      <subsection title="Electricity access">electrification - total population: 100%
-(2020)</subsection>
-      <subsection title="Electricity">installed generating capacity: 3.03 million kW
-(2020 est.)<br/>
-         <br/>
-consumption: 9.172 billion kWh (2020 est.)<br/>
-         <br/>
-exports: 3.722 billion kWh (2020 est.)<br/>
-         <br/>
-imports: 7.367 billion kWh (2020 est.)<br/>
-         <br/>
-transmission/distribution losses: 375 million kWh
-(2020 est.)</subsection>
-      <subsection title="Electricity generation sources">fossil fuels: 55.8% of total installed capacity
-(2020 est.)<br/>
-         <br/>
-nuclear: 0% of total installed capacity (2020
-est.)<br/>
-         <br/>
-solar: 2% of total installed capacity (2020
-est.)<br/>
-         <br/>
-wind: 14.3% of total installed capacity (2020
-est.)<br/>
-         <br/>
-hydroelectricity: 0.7% of total installed capacity
-(2020 est.)<br/>
-         <br/>
-tide and wave: 0% of total installed capacity
-(2020 est.)<br/>
-         <br/>
-geothermal: 0% of total installed capacity (2020
-est.)<br/>
-         <br/>
-biomass and waste: 27.2% of total installed
-capacity (2020 est.)</subsection>
-      <subsection title="Coal">production: 0 metric tons (2020 est.)<br/>
-         <br/>
-consumption: 3,000 metric tons (2020 est.)<br/>
-         <br/>
-exports: 0 metric tons (2020 est.)<br/>
-         <br/>
-imports: 3,000 metric tons (2020 est.)<br/>
-         <br/>
-proven reserves: 0 metric tons (2019 est.)</subsection>
-      <subsection title="Petroleum">total petroleum production: 21,800 bbl/day
-(2021 est.)<br/>
-         <br/>
-refined petroleum consumption: 27,500 bbl/day
-(2019 est.)<br/>
-         <br/>
-crude oil and lease condensate exports: 0 bbl/day
-(2018 est.)<br/>
-         <br/>
-crude oil and lease condensate imports: 0 bbl/day
-(2018 est.)<br/>
-         <br/>
-crude oil estimated reserves: 0 barrels (2021
-est.)</subsection>
-      <subsection title="Refined petroleum products - production">0 bbl/day (2017 est.)<br/>country
+      <subsection title="Electricity access">
+         <note title="electrification - total population">100% (2020)</note>
+      </subsection>
+      <subsection title="Electricity">
+         <note title="installed generating capacity">3.03 million kW (2020 est.)</note>
+         <note title="consumption">9.172 billion kWh (2020 est.)</note>
+         <note title="exports">3.722 billion kWh (2020 est.)</note>
+         <note title="imports">7.367 billion kWh (2020 est.)</note>
+         <note title="transmission/distribution losses">375 million kWh (2020 est.)</note>
+      </subsection>
+      <subsection title="Electricity generation sources">
+         <note title="fossil fuels">55.8% of total installed capacity (2020 est.)</note>
+         <note title="nuclear">0% of total installed capacity (2020 est.)</note>
+         <note title="solar">2% of total installed capacity (2020 est.)</note>
+         <note title="wind">14.3% of total installed capacity (2020 est.)</note>
+         <note title="hydroelectricity">0.7% of total installed capacity (2020 est.)</note>
+         <note title="tide and wave">0% of total installed capacity (2020 est.)</note>
+         <note title="geothermal">0% of total installed capacity (2020 est.)</note>
+         <note title="biomass and waste">27.2% of total installed capacity (2020 est.)</note>
+      </subsection>
+      <subsection title="Coal">
+         <note title="production">0 metric tons (2020 est.)</note>
+         <note title="consumption">3,000 metric tons (2020 est.)</note>
+         <note title="exports">0 metric tons (2020 est.)</note>
+         <note title="imports">3,000 metric tons (2020 est.)</note>
+         <note title="proven reserves">0 metric tons (2019 est.)</note>
+      </subsection>
+      <subsection title="Petroleum">
+         <note title="total petroleum production">21,800 bbl/day (2021 est.)</note>
+         <note title="refined petroleum consumption">27,500 bbl/day (2019 est.)</note>
+         <note title="crude oil and lease condensate exports">0 bbl/day (2018 est.)</note>
+         <note title="crude oil and lease condensate imports">0 bbl/day (2018 est.)</note>
+         <note title="crude oil estimated reserves">0 barrels (2021 est.)</note>
+      </subsection>
+      <subsection title="Refined petroleum products - production">0 bbl/day (2017 est.)country
 comparison to the world: 141</subsection>
-      <subsection title="Refined petroleum products - exports">27,150 bbl/day (2017 est.)<br/>country
+      <subsection title="Refined petroleum products - exports">27,150 bbl/day (2017 est.)country
 comparison to the world: 64</subsection>
-      <subsection title="Refined petroleum products - imports">35,520 bbl/day (2017 est.)<br/>country
+      <subsection title="Refined petroleum products - imports">35,520 bbl/day (2017 est.)country
 comparison to the world: 95</subsection>
-      <subsection title="Natural gas">production: 0 cubic meters (2021 est.)<br/>
-         <br/>
-consumption: 417.106 million cubic meters (2020
-est.)<br/>
-         <br/>
-exports: 0 cubic meters (2021 est.)<br/>
-         <br/>
-imports: 417.276 million cubic meters (2020
-est.)<br/>
-         <br/>
-proven reserves: 0 cubic meters (2021 est.)</subsection>
-      <subsection title="Carbon dioxide emissions">4.924 million metric tonnes of CO2 (2019 est.)<br/>
-         <br/>
-from coal and metallurgical coke: 44,000 metric
-tonnes of CO2 (2019 est.)<br/>
-         <br/>
-from petroleum and other liquids: 3.979 million
-metric tonnes of CO2 (2019 est.)<br/>
-         <br/>
-from consumed natural gas: 901,000 metric tonnes
-of CO2 (2019 est.)<br/>country
+      <subsection title="Natural gas">
+         <note title="production">0 cubic meters (2021 est.)</note>
+         <note title="consumption">417.106 million cubic meters (2020 est.)</note>
+         <note title="exports">0 cubic meters (2021 est.)</note>
+         <note title="imports">417.276 million cubic meters (2020 est.)</note>
+         <note title="proven reserves">0 cubic meters (2021 est.)</note>
+      </subsection>
+      <subsection title="Carbon dioxide emissions">4.924 million metric tonnes of CO2 (2019 est.)
+<note title="from coal and metallurgical coke">44,000 metric tonnes of CO2 (2019 est.)</note>
+         <note title="from petroleum and other liquids">3.979 million metric tonnes of CO2 (2019 est.)</note>
+         <note title="from consumed natural gas">901,000 metric tonnes of CO2 (2019 est.)</note>country
 comparison to the world: 135</subsection>
-      <subsection title="Energy consumption per capita">76.329 million Btu/person (2019 est.)<br/>country
+      <subsection title="Energy consumption per capita">76.329 million Btu/person (2019 est.)country
 comparison to the world: 80</subsection>
    </section>
    <section title="Communications">
-      <subsection title="Telephones - fixed lines">total subscriptions: 304,728 (2020 est.)<br/>
-         <br/>
-subscriptions per 100 inhabitants: 23 (2020
-est.)<br/>country
+      <subsection title="Telephones - fixed lines">
+         <note title="total subscriptions">304,728 (2020 est.)</note>
+         <note title="subscriptions per 100 inhabitants">23 (2020 est.)</note>country
 comparison to the world: 108</subsection>
-      <subsection title="Telephones - mobile cellular">total subscriptions: 1,925,789 (2020
-est.)<br/>
-         <br/>
-subscriptions per 100 inhabitants: 145 (2020
-est.)<br/>country
+      <subsection title="Telephones - mobile cellular">
+         <note title="total subscriptions">1,925,789 (2020 est.)</note>
+         <note title="subscriptions per 100 inhabitants">145 (2020 est.)</note>country
 comparison to the world: 149</subsection>
-      <subsection title="Telecommunication systems">general assessment: the competitive telecom
-market continues to progress with a range of regulatory measures
-which have enabled alternative operators to chip away at the
-fixed-line market share; fixed-line infrastructure upgrades have
-been focused on fiber, and the legacy DSL network has gradually
-been replaced; limited commercial 5G deployments have been made
-though an expansion of service availability awaits the delayed
-auction of spectrum in the 3.5GHz band, which is expected to be
-held later in 2021 (2021)<br/>
-         <br/>
-domestic: just under 23 per 100 for fixed-line
-subscribership and approximately 145 per 100 for mobile-cellular;
-substantial fiber-optic cable systems carry telephone, TV, and
-radio traffic in the digital mode; Internet services are widely
-available; schools and libraries are connected to the Internet, a
-large percentage of the population files income tax returns online,
-and online voting - in local and parliamentary elections - has
-climbed steadily since first being introduced in 2005; a large
-percent of Estonian households have broadband access (2020)<br/>
-         <br/>
-international: country code - 372; landing points
-for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2
-fiber-optic submarine cables to other Estonia points, Finland, and
-Sweden; 2 international switches are located in Tallinn
-(2019)<br/>
-         <br/>
-note: the COVID-19 pandemic continues to have a
-significant impact on production and supply chains globally; since
-2020, some aspects of the telecom sector have experienced a
-downturn, particularly in mobile device production; progress toward
-5G implementation has resumed, as well as upgrades to
-infrastructure; consumer spending on telecom services has increased
-due to the surge in demand for capacity and bandwidth; the crucial
-nature of telecom services as a tool for work and school from home
-is still evident, and the spike in this area has seen growth
-opportunities for development of new tools and increased
-services</subsection>
+      <subsection title="Telecommunication systems">
+         <note title="general assessment">the competitive telecom market continues to progress with a range of regulatory measures which have enabled alternative operators to chip away at the fixed-line market share; fixed-line infrastructure upgrades have been focused on fiber, and the legacy DSL network has gradually been replaced; limited commercial 5G deployments have been made though an expansion of service availability awaits the delayed auction of spectrum in the 3.5GHz band, which is expected to be held later in 2021 (2021)</note>
+         <note title="domestic">just under 23 per 100 for fixed-line subscribership and approximately 145 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2020)</note>
+         <note title="international">country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)</note>
+         <note title="note">the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced a downturn, particularly in mobile device production; progress toward 5G implementation has resumed, as well as upgrades to infrastructure; consumer spending on telecom services has increased due to the surge in demand for capacity and bandwidth; the crucial nature of telecom services as a tool for work and school from home is still evident, and the spike in this area has seen growth opportunities for development of new tools and increased services</note>
+      </subsection>
       <subsection title="Broadcast media">the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR),
 operates 3 TV channels and 5 radio networks; growing number of
 private commercial radio stations broadcasting nationally,
@@ -817,67 +586,59 @@ channels are aimed at Russian-speaking viewers; in 2016, there were
 and SVOD services; roughly 85% of households accessed digital
 television services</subsection>
       <subsection title="Internet country code">.ee</subsection>
-      <subsection title="Internet users">total: 1,276,521 (July 2022 est.)<br/>
-         <br/>
-percent of population: 96.1% (July 2022 est.)<br/>country
+      <subsection title="Internet users">
+         <note title="total">1,276,521 (July 2022 est.)</note>
+         <note title="percent of population">96.1% (July 2022 est.)</note>country
 comparison to the world: 141</subsection>
-      <subsection title="Broadband - fixed subscriptions">total: 415,610 (2020 est.)<br/>
-         <br/>
-subscriptions per 100 inhabitants: 31 (2020
-est.)<br/>country
+      <subsection title="Broadband - fixed subscriptions">
+         <note title="total">415,610 (2020 est.)</note>
+         <note title="subscriptions per 100 inhabitants">31 (2020 est.)</note>country
 comparison to the world: 96</subsection>
    </section>
    <section title="Transportation">
-      <subsection title="National air transport system">number of registered air carriers: 3
-(2020)<br/>
-         <br/>
-inventory of registered aircraft operated by air
-carriers: 14<br/>
-         <br/>
-annual passenger traffic on registered air
-carriers: 31,981 (2018)</subsection>
+      <subsection title="National air transport system">
+         <note title="number of registered air carriers">3 (2020)</note>
+         <note title="inventory of registered aircraft operated by air carriers">14</note>
+         <note title="annual passenger traffic on registered air carriers">31,981 (2018)</note>
+      </subsection>
       <subsection title="Civil aircraft registration country code prefix">ES</subsection>
-      <subsection title="Airports">total: 18 (2021)<br/>country
+      <subsection title="Airports">
+         <note title="total">18 (2021)</note>country
 comparison to the world: 138</subsection>
-      <subsection title="Airports - with paved runways">total: 13<br/>
-         <br/>
-over 3,047 m: 2<br/>
-         <br/>
-2,438 to 3,047 m: 8<br/>
-         <br/>
-1,524 to 2,437 m: 2<br/>
-         <br/>
-914 to 1,523 m: 1 (2021)</subsection>
-      <subsection title="Airports - with unpaved runways">total: 5<br/>
-         <br/>
-1,524 to 2,437 m: 1<br/>
-         <br/>
-914 to 1,523 m: 1<br/>
-         <br/>
-under 914 m: 3 (2021)</subsection>
+      <subsection title="Airports - with paved runways">
+         <note title="total">13</note>
+         <note title="over 3,047 m">2</note>
+         <note title="2,438 to 3,047 m">8</note>
+         <note title="1,524 to 2,437 m">2</note>
+         <note title="914 to 1,523 m">1 (2021)</note>
+      </subsection>
+      <subsection title="Airports - with unpaved runways">
+         <note title="total">5</note>
+         <note title="1,524 to 2,437 m">1</note>
+         <note title="914 to 1,523 m">1</note>
+         <note title="under 914 m">3 (2021)</note>
+      </subsection>
       <subsection title="Heliports">1 (2021)</subsection>
       <subsection title="Pipelines">2,360 km gas (2016)</subsection>
-      <subsection title="Railways">total: 1,441 km (2020) 225 km electrified<br/>country
+      <subsection title="Railways">
+         <note title="total">1,441 km (2020) 225 km electrified</note>country
 comparison to the world: 82</subsection>
-      <subsection title="Roadways">total: 58,412 km (2011) (includes urban
-roads)<br/>
-         <br/>
-paved: 10,427 km (2011) (includes 115 km of
-expressways)<br/>
-         <br/>
-unpaved: 47,985 km (2011)<br/>country
+      <subsection title="Roadways">
+         <note title="total">58,412 km (2011) (includes urban roads)</note>
+         <note title="paved">10,427 km (2011) (includes 115 km of expressways)</note>
+         <note title="unpaved">47,985 km (2011)</note>country
 comparison to the world: 78</subsection>
-      <subsection title="Waterways">335 km (2011) (320 km are navigable year-round)<br/>country
+      <subsection title="Waterways">335 km (2011) (320 km are navigable year-round)country
 comparison to the world: 99</subsection>
-      <subsection title="Merchant marine">total: 68<br/>
-         <br/>
-by type: general cargo 2, oil tanker 4, other 62
-(2021)<br/>country
+      <subsection title="Merchant marine">
+         <note title="total">68</note>
+         <note title="by type">general cargo 2, oil tanker 4, other 62 (2021)</note>country
 comparison to the world: 106</subsection>
-      <subsection title="Ports and terminals">major seaport(s): Kuivastu, Kunda, Muuga, Parnu
-Reid, Sillamae, Tallinn</subsection>
+      <subsection title="Ports and terminals">
+         <note title="major seaport(s)">Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn</note>
+      </subsection>
       <subsection title="Transportation - note">Estonia operates two PC 5 or 6 class icebreakers in the Baltic
-Sea<br/>
+Sea
 note - PC indicates a Polar Class vessel: PC 5 - year-round
 operation in medium first-year ice which may include old ice
 inclusions (ice thickness up to 70-120 cm); PC 6 - summer/autumn
@@ -887,15 +648,15 @@ inclusions (ice thickness up to 30-70 cm)</subsection>
    <section title="Military and Security">
       <subsection title="Military and security forces">Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian
 Defense League (Reserves) (2022)</subsection>
-      <subsection title="Military expenditures">2.35% of GDP (2022 est.)<br/>
-         <br/>
-2.2% of GDP (2021)<br/>
-         <br/>
-2.4% of GDP (2020)<br/>
-         <br/>
-2% of GDP (2019) (approximately $850 million)<br/>
-         <br/>
-2% of GDP (2018) (approximately $800 million)<br/>country
+      <subsection title="Military expenditures">2.35% of GDP (2022 est.)
+
+2.2% of GDP (2021)
+
+2.4% of GDP (2020)
+
+2% of GDP (2019) (approximately $850 million)
+
+2% of GDP (2018) (approximately $800 million)country
 comparison to the world: 48</subsection>
       <subsection title="Military and security service personnel strengths">approximately 7,000 active duty personnel; approximately 15,000
 Defense League (2022)</subsection>
@@ -905,25 +666,13 @@ equipment, mostly from western European suppliers (2022)</subsection>
 conscript service requirement 8-11 months depending on education;
 non-commissioned officers, reserve officers, and specialists serve
 11 months; women can volunteer, and as of 2018 could serve in any
-military branch (2022)<br/>
-         <br/>
-note 1: conscripts comprise approximately
-3,000-3,300 of the Estonian military's 7,000 active duty personnel
-and serve in all branches, except for the Air Force, which does not
-have conscripts; after conscript service, reservists are called up
-for training every 5 years; Estonia has had conscription since
-1991<br/>
-         <br/>
-note 2: the Estonian Defense Forces rely largely
-on reservists who have completed compulsory conscription in the
-previous 10 years to fill out its active duty and Territorial
-Defense units during a crisis; a total of approximately 230,000
-Estonians are enrolled in the mobilization registry<br/>
-         <br/>
-note 3: in 2020, women comprised about 10% of the
-full-time professional military force</subsection>
-      <subsection title="Military - note">Estonia became a member of NATO in 2004<br/>
-         <br/>
+military branch (2022)
+<note title="note 1">conscripts comprise approximately 3,000-3,300 of the Estonian military's 7,000 active duty personnel and serve in all branches, except for the Air Force, which does not have conscripts; after conscript service, reservists are called up for training every 5 years; Estonia has had conscription since 1991</note>
+         <note title="note 2">the Estonian Defense Forces rely largely on reservists who have completed compulsory conscription in the previous 10 years to fill out its active duty and Territorial Defense units during a crisis; a total of approximately 230,000 Estonians are enrolled in the mobilization registry</note>
+         <note title="note 3">in 2020, women comprised about 10% of the full-time professional military force</note>
+      </subsection>
+      <subsection title="Military - note">Estonia became a member of NATO in 2004
+
 since 2017, Estonia has hosted a UK-led multi-national NATO ground
 force battlegroup as part of the Alliance’s Enhanced Forward
 Presence initiative; NATO has provided air protection for Estonia
@@ -944,21 +693,10 @@ preamble has any legal impact on the treaty text; Russia demands
 better treatment of the Russian-speaking population in Estonia; as
 a member state that forms part of the EU's external border, Estonia
 implements strict Schengen border rules with Russia</subsection>
-      <subsection title="Refugees and internally displaced persons">refugees (country of origin): 66,074 (Ukraine)
-(as of 29 January 2023)<br/>
-         <br/>
-stateless persons: 70,604 (2022); note - following
-independence in 1991, automatic citizenship was restricted to those
-who were Estonian citizens prior to the 1940 Soviet occupation and
-their descendants; thousands of ethnic Russians remained stateless
-when forced to choose between passing Estonian language and
-citizenship tests or applying for Russian citizenship; one reason
-for demurring on Estonian citizenship was to retain the right of
-visa-free travel to Russia; stateless residents can vote in local
-elections but not general elections; stateless parents who have
-been lawful residents of Estonia for at least five years can apply
-for citizenship for their children before they turn 15 years
-old</subsection>
+      <subsection title="Refugees and internally displaced persons">
+         <note title="refugees (country of origin)">66,074 (Ukraine) (as of 29 January 2023)</note>
+         <note title="stateless persons">70,604 (2022); note - following independence in 1991, automatic citizenship was restricted to those who were Estonian citizens prior to the 1940 Soviet occupation and their descendants; thousands of ethnic Russians remained stateless when forced to choose between passing Estonian language and citizenship tests or applying for Russian citizenship; one reason for demurring on Estonian citizenship was to retain the right of visa-free travel to Russia; stateless residents can vote in local elections but not general elections; stateless parents who have been lawful residents of Estonia for at least five years can apply for citizenship for their children before they turn 15 years old</note>
+      </subsection>
       <subsection title="Illicit drugs">producer of synthetic drugs; important transshipment zone for
 cannabis, cocaine, opiates, and synthetic drugs since joining the
 European Union and the Schengen Accord; potential money laundering

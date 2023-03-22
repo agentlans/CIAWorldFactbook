@@ -31,19 +31,49 @@ xmlns:xh="http://www.w3.org/1999/xhtml">
 </xsl:template>
 
 <xsl:template match="xh:h3">
-<subsection title="{.}">
+<subsection title="{replace(.,':','')}">
 <xsl:apply-templates select="following-sibling::*"/>
 </subsection>
 </xsl:template>
 
-<!-- to keep the spacing between paragraphs -->
 <xsl:template match="xh:br">
-<br/>
+&#xA;
 </xsl:template>
 
 <xsl:template match="xh:a">
-<br/><xsl:value-of select="."/>
+&#x20;<xsl:value-of select="."/>
 </xsl:template>
+
+<!-- print the text after the heading -->
+<xsl:template match="xh:strong">
+<note title="{normalize-space(replace(.,':',''))}">
+<xsl:call-template name="print-following-text"/>
+</note>
+</xsl:template>
+
+<xsl:template name="print-following-text">
+<xsl:value-of select="normalize-space(following-sibling::text()[1])"/>
+</xsl:template>
+
+<!-- Print text if it's not part of a boldface note -->
+<xsl:template match="text()[not(preceding-sibling::xh:strong)]">
+<xsl:value-of select="."/>
+</xsl:template>
+
+<!-- Only print paragraphs that don't have notes -->
+<xsl:template match="xh:p">
+<xsl:choose>
+<xsl:when test="not(xh:strong)">
+	<xsl:value-of select="."/>
+</xsl:when>
+<xsl:otherwise>
+	<xsl:apply-templates/>
+</xsl:otherwise>
+</xsl:choose>
+</xsl:template>
+
+<!-- No text by default -->
+<xsl:template match="text()"/>
 
 <!-- don't include these tags -->
 <xsl:template match="xh:style | xh:script | xh:head"/>
